@@ -2,7 +2,7 @@
 MonteaProject(将来的に)&nbsp;💬  
 &nbsp;&nbsp;&nbsp;・MonteaScan/脆弱性管理サービス  
 &nbsp;&nbsp;&nbsp;・MonteaEar/通知サービス(Teams/Slack/メールなど)  
-&nbsp;&nbsp;&nbsp;・MonteaEyes/運用プラットフォーム(インシデント/機能要望・改善/チケット管理)+(チャット機能/オンコール/エスカレーション管理)  
+&nbsp;&nbsp;&nbsp;・MonteaEyes/運用プラットフォーム(問い合わせ分類/機能要望・改善/インシデント)+(チャット/エスカレーション機能)  
 &nbsp;&nbsp;&nbsp;・MonteaOS/IoT OS(主にドローン向け)  
 
 <!--
