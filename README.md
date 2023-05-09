@@ -1,7 +1,7 @@
 ### Hi 👋
 MonteaProject(将来的に)  
-&nbsp;&nbsp;&nbsp;・MonteaScan /脆弱性検出サービス  
-&nbsp;&nbsp;&nbsp;・MonteaEar /通知サービス(Teams/Slack/メールなど)  
+&nbsp;&nbsp;&nbsp;・MonteaScan /脆弱性検出  
+&nbsp;&nbsp;&nbsp;・MonteaEar /通知(Teams/Slack/メールなど)  
 &nbsp;&nbsp;&nbsp;・MonteaEyes /運用プラットフォーム(対応可視化/ディスカッション/イベント分析)  
 &nbsp;&nbsp;&nbsp;・MonteaOS /IoT OS(主にドローン向け)  
 
