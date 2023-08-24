@@ -1,5 +1,5 @@
 ### Hi 👋
-MonteaProject(将来的に)  
+MonteaProject  
 &nbsp;&nbsp;&nbsp;・MonteaScan /(Private)  
 &nbsp;&nbsp;&nbsp;・MonteaEar /通知(Teams/Slack/メールなど)  
 &nbsp;&nbsp;&nbsp;・MonteaEyes /運用プラットフォーム(対応可視化/ディスカッション/イベント分析)  
